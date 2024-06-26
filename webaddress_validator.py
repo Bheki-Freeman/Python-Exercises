@@ -1,4 +1,5 @@
 # I am creating a simple web validator program
+# This module is meant to introduce the re (python regex module)
 import re
 
 def web_address_validator(web_address:str) -> bool:
